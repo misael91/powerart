@@ -1,0 +1,111 @@
+@charset "utf-8";
+.titulo1 {
+    color: #420001;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+    text-shadow: 1px 1px 23px #000000;
+    text-transform: uppercase;
+    border-left: 6px groove #FCFCFC;
+    border-right: 6px groove #FCFCFC;
+    border-bottom: 6px groove #FCFCFC;
+    border-top: 11px groove #FCFCFC;
+    border-radius: 13px;
+    border-collapse: separate;
+    border-spacing: 59px 21px;
+    background-image: url(url);
+    background-color: #FFFFFF;
+    background-size: contain;
+    float: none;
+    margin-right: 28px;
+    clear: none;
+    overflow-x: hidden;
+    text-decoration: none;
+    text-align: justify;
+    background-position: 19% 0%;
+    width: 10px;
+    height: 10px;
+    display: contents;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    right: 42px;
+    left: 66px;
+    top: 56px;
+    margin-top: 38px;
+    margin-bottom: 67px;
+    margin-left: 464px;
+    font-weight: 400;
+}
+.titulo2 {
+    margin-left: 513px;
+    
+}
+
+.text1 {
+    display: table-column-group;
+}
+
+.menu {
+	padding: 0px;
+    display: inline;
+    float: none;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: large;
+    line-height: 23px;
+    text-align: center;
+    text-indent: 270px;
+}
+
+.menu2{
+	box-sizing: border-box;
+    padding-top: 11px;
+    padding-right: 11px;
+    padding-left: 11px;
+    padding-bottom: 11px;
+    display: inline;
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+    width: 20px;
+    height: 10px;
+    min-width: 12px;
+    min-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    right: 4px;
+    background-color: #4D4949;
+}
+
+.text2 {
+		
+	}
+
+.Sub2 {
+    
+}
+
+
+
+.Parrafo2 {
+    
+}
+.marc1 {
+	float: inherit;
+}
+.marc2 {
+	float:
+}
+.marc4 {
+	float: left;
+}
+.marc5 {
+	float: right;
+	
+}
+.marc6 {
+	float: left;
+}
